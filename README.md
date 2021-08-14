@@ -3,7 +3,7 @@
 Crie uma bela IU para tocar música armazenada na "pasta de músicas" usando a API de áudio HTML5
 
  <div align="center">
-  <img src="https://user-images.githubusercontent.com/49501669/129459682-83d853b8-2e3d-4896-9aba-d18ca412ebda.png" alt="Music Player">
+  <img src="https://user-images.githubusercontent.com/49501669/129461960-0c8c5311-2193-4947-abc0-aeddc05da2b2.jpg" alt="Music Player">
 </div>
 
 
